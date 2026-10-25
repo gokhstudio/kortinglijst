@@ -1,25 +1,4 @@
-<!doctype html>
-<html lang="nl">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Kortinglijst – Privacybeleid / Privacy Policy / Polityka prywatności</title>
-<style>
-  :root { --bg:#f7f4ef; --fg:#1d1b17; --mut:#6b665c; --acc:#c4500a; --card:#fff; }
-  @media (prefers-color-scheme: dark) { :root { --bg:#12110f; --fg:#f5f2ea; --mut:#a8a296; --acc:#ff8a4d; --card:#1d1b18; } }
-  body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
-  main { max-width:760px; margin:0 auto; padding:24px 20px 64px; }
-  nav { position:sticky; top:0; background:var(--bg); padding:10px 0; display:flex; gap:10px; border-bottom:1px solid #8884; }
-  nav a { padding:6px 14px; border-radius:999px; background:var(--card); color:var(--fg); text-decoration:none; font-weight:600; }
-  nav a:target, nav a:hover { background:var(--acc); color:#fff; }
-  section { margin-top:32px; padding-bottom:24px; border-bottom:1px solid #8884; }
-  h1 { font-size:28px; line-height:1.2; } h2 { font-size:19px; margin-top:28px; }
-  a { color:var(--acc); } .meta { color:var(--mut); font-size:14px; } li { margin:8px 0; }
-</style>
-</head>
-<body>
-<main>
-<nav><a href="#nl">Nederlands</a><a href="#en">English</a><a href="#pl">Polski</a></nav>
+
 
 <section id="nl" lang="nl">
 <h1>Privacybeleid – Kortinglijst</h1>
