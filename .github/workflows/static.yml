@@ -18,7 +18,7 @@
 </style>
 </head>
 <body>
-<main>
+<main> 
 <nav><a href="#nl">Nederlands</a><a href="#en">English</a><a href="#pl">Polski</a></nav>
 
 <section id="nl" lang="nl">
